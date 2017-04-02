@@ -1,0 +1,35 @@
+html {
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+h4, a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+video {
+  object-fit: contain;
+}
+
+#second {
+  text-align: right;
+  color: gray;
+}
